@@ -1,18 +1,18 @@
 # Python Intro
 
-## Description
- 
- This is an introduction to Python
+# Description
 
-## Usage
+This is an introduction to Python
+
+# Usage
 
 I am not sure of the usage just yet.
 
-## Author
+# Author
 
 Andenis Simms
 
-## License
+# License
 
 Copyright 2020 Andenis Simms
 
